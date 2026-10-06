@@ -5,7 +5,7 @@ pedidos chegam via Kafka, são gravados em tempo real no PostgreSQL, e
 o Airflow orquestra uma agregação periódica em cima desses dados.
 
 Roda 100% local via Docker — sem AWS, sem Astronomer, sem Confluent
-Cloud, sem cartão de crédito.
+Cloud,
 
 ## Arquitetura
 
